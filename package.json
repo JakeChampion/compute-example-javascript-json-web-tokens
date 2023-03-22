@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "jose": "^4.13.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.36.0"
+  }
+}
