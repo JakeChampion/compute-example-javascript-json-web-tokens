@@ -2,7 +2,7 @@
 
 This is a demo of JWT (JSON Web Token) support within the Compute JavaScript SDK.
 
-The application have several routes, the relevant routes for this demo are:
+The application has several routes, the relevant routes for this demo are:
 - `/authenticated`:
     - If the client does have a valid JWT signed by the applications private key, then the application responds with JSON which contains the JWT Claims Set
     - If the client does *not* have a valid JWT signed by the applications private key, then the application responds with HTML containing a link to the login page
